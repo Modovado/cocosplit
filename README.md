@@ -34,4 +34,4 @@ optional arguments:
 $ python cocosplit.py /path/to/your/coco_annotations.json train.json test.json
 ```
 
-will split ``coco_annotation.json`` into ``train.json`` and ``test.json`` with ratio 80%/20% respectively
+will split ``coco_annotation.json`` into ``train.json`` and ``test.json`` with ratio 80 20 respectively
