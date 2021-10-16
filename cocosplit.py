@@ -3,7 +3,6 @@ Originated from:
 https://github.com/akarazniewicz/cocosplit/blob/master/cocosplit.py
 """
 
-import os
 import json
 import argparse
 from sklearn.model_selection import train_test_split
